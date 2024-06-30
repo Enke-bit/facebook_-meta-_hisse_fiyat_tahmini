@@ -1,6 +1,8 @@
 # Facebook Hisse Senedi Tahmini LSTM ile
 Bu proje, Facebook (Meta) hisse senedi fiyatlarını bir yıl ileriye dönük tahmin etmek için Long Short-Term Memory (LSTM) sinir ağı modelini kullanmaktadır. Bu analizde kullanılan veri seti Kaggle'dan alınmıştır ve Facebook'un tarihsel hisse senedi verilerini içermektedir.
 
+# ⚠ Bu çalışma bir yatırım tavsyesi değildir.
+
 ## Veri Seti
 Bu projede kullanılan veri seti, Facebook'un (Meta) tarihsel hisse senedi fiyatlarını içermektedir. Veri seti aşağıdaki sütunları içermektedir:
 
